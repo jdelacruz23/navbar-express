@@ -1,10 +1,11 @@
 // server.js
 
 const express = require("express");
+const path = require("path")
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// add any necessary code you'd want to!
+app.use(express.static(path.join(__dirname, 'public')))
 
 //root
 app.get('/', (req, res) => {
