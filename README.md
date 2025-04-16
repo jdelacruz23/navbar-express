@@ -5,7 +5,7 @@ A simple Node.js + Express project that serves a webpage with a navigation bar l
 - Express routing to:
     - [Climate Crisis Project](https://github.com/jdelacruz23/group-project-1-g10?tab=readme-ov-file)
     - [Typesetting Project](https://github.com/jdelacruz23/typesetting)
-    - [Four Algorithms Project] (https://github.com/jdelacruz23/four-sorting-algo)
+    - [Four Algorithms Project](https://github.com/jdelacruz23/four-sorting-algo)
 
 ## Tech used
 
