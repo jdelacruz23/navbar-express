@@ -9,10 +9,6 @@
   "engines":{
     "node": ">=16"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jdelacruz23/navbar-express.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
