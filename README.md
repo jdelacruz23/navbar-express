@@ -16,9 +16,10 @@ A simple Node.js + Express project that serves a webpage with a navigation bar l
 ## Usage:
 - clone repo
     - git clone https://github.com/your-username/navbar-express
-- install npm
-- run node server.js
-- open browser and go to http://localhost:3000/<route>
+- install npm by running "npm init -y"
+- install express by "npm install express"
+- open terminal then run "node server.js"
+- open browser and go to http://localhost:3000/<route> and use one of the following routes below:
 * /climate-crisis
 * /typesetting
 * /four-algorithms
